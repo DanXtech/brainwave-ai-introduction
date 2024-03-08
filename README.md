@@ -1,8 +1,5 @@
 <div align="center">
-![GitHub repo size(https://)]
-![GitHub forks(https://)]
-![GitHub follow(https://)]
-
+<a href="https://"><strong>➥ Live Demo</strong></a>
 <br/>
 
 <img src="">
@@ -12,20 +9,18 @@
  <br/>
 Brainwave AI website with ReactJS and Tailwind CSS
 
-<a href="https://"><strong>➥ Live Demo</strong></a>
-
 </div>
 
 <br />
 
-### Demo Desktop Screeshots
+### Demo Desktop Screenshots
 
-![Admin - DashBoard Desktop Demo](./readme-image//Screenshot-brainwave-destop.png "Desktop Demo")
+![Brainwave AI website Desktop Demo](./readme-image//Screenshot-brainwave-destop.png "Desktop Demo")
 
-### Demo Top phone git display Screeshots
+ ### Demo Top phone git display Screenshots
 
-![Admin - DashBoard Moblie Demo](./readme-image/mobile.gif "Moblie Demo")
+![Brainwave AI website Moblie Demo](./readme-image/mobile.gif "Moblie Demo")
 
-### Demo Top moblie git display Screeshots
+### Demo Top mobile git display Screenshots
 
-![Admin - DashBoard Moblie Demo](./readme-image/mobile.gif "Moblie Demo")
+![Brainwave AI website Moblie Demo](./readme-image/mobile.gif "Moblie Demo")
